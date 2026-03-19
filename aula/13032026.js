@@ -15,4 +15,19 @@ function calculadora(ari,a,b){
           case '+':
               resultado = a + b;
               break;
-      case'-':
+      case'*':
+function calculadora(ari,a,b){
+     case'-':
+       resultado a - b;
+       case'*'
+        resultado = a * b;
+      break;
+    default
+    resultado = 'operador inválido'
+    
+    function calculadora(ari,a,b)
+}
+return 
+
+{
+

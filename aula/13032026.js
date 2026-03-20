@@ -1,4 +1,4 @@
-let lucro = 30;
+\let lucro = 30;
 let lucro2 = 10;
 
 function soma(a,b){

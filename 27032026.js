@@ -9,7 +9,7 @@ function lerAmigos(filaStringsAmigos){
 
      for(let i = 0; i < filaStringsAmigos.length;i++){
          console.log(filaStringsAmigos[i])
-         if(filaStringsAmigos[i]=== "Vitória"){
+    if(filaStringsAmigos[i]=== "Vitória"){
             console.log(`Index do seu melhor amigo é ${i}`)
 
      }
